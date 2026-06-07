@@ -1,0 +1,5 @@
+*.log
+*.tmp
+.kube/
+*.pem
+node_modules/
